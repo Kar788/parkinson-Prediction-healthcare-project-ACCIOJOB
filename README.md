@@ -1,9 +1,9 @@
-Detection Of Parkinson Disease Dataset
-Description :
+#Detection Of Parkinson Disease Dataset
+###Description :
 This dataset is composed of a range of biomedical voice measurements from 31 people, 23 with Parkinson's disease (PD). Each column in the table is a particular voice measure, and each row corresponds one of 195 voice recording from these individuals ("name" column). The main aim of the data is to discriminate healthy people from those with PD, according to "status" column which is set to 0 for healthy and 1 for PD. We will use Jupyter Notebook for the training data and buiding our model using XGBClassifier.
 
-Google Colab Notebook
-For Colab Notebook click here
+###Google Colab Notebook
+- For Colab Notebook click here
 Prerequisites :
 Required
 Python Programming Language
